@@ -21,7 +21,7 @@ public class Calculator {
             case '*': result = a * b; break;
             case '/':
                 if (b == 0) {
-                    System.out.println("Error: Division by zero!");
+                    System.out.println("Error: Division by zero exception");
                     return;
                 }
                 result = a / b;

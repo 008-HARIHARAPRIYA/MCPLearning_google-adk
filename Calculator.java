@@ -27,7 +27,7 @@ public class Calculator {
                 result = a / b;
                 break;
             default:
-                System.out.println("Operator is invalid");
+                System.out.println("Operator Invalid");
                 return;
         }
 

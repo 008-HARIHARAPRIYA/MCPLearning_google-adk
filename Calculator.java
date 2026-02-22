@@ -31,7 +31,7 @@ public class Calculator {
                 return;
         }
 
-        System.out.println("Result: " + result);
+        System.out.println("Result of Calculation is: " + result);
         scanner.close();
     }
 }

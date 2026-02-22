@@ -28,7 +28,7 @@ public class Calculator {
                 break;
             default:
                 System.out.println("Invalid operator!");
-                return;
+                return:
         }
 
         System.out.println("Result: " + result);
